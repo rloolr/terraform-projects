@@ -1,3 +1,6 @@
+# TASK-01 - CREATE VPC 1 TIER
+The goal of this task is to create a public infrastructure for general testing
+
 ## Requirements
 
 | Name | Version |
